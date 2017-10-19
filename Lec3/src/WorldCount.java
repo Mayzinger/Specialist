@@ -17,6 +17,8 @@ public class WorldCount {
 		addWordsToArray(s2, strings);
 		
 		treeSets.addAll(strings);
+		strings.iterator().
+		
 		for (String string : strings) {
 			System.out.println(string);
 		}
